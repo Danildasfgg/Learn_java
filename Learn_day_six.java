@@ -8,7 +8,7 @@ public class Learn_day_six {
                 System.out.println("NO NO NO  NO NO ");
             }
         int hour = 5;
-        String hour_name = " ";
+            String hour_name = " ";
             switch (hour) {
                 case 1:
                     hour_name = "One";
