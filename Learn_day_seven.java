@@ -8,7 +8,7 @@ public class Learn_day_seven {
             } else {
                 System.out.println("Good evening");
             }
-            String small_condition = (time == 12) ? "Good day" : "Good evening"; //testin
+            String small_condition = (time == 12) ? "Good day" : "Good evening"; //testing shortened conditions
             System.out.println(small_condition);
             while (time == 15){
                 System.out.println("oops");
