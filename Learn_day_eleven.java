@@ -4,8 +4,7 @@ public class Learn_day_eleven {
         for (int i = 0; i < cars.length; i++){
             System.out.println(cars[i]);
         }
-        for (int i = 0; i < 10; i++){
-            System.out.println(i);
-        }
+        String[][] car = { {"hhfhfhfh", "fhfhhf"}, {"hfhhfhfh", "jjfjf"}};
+        System.out.println(car.length);
     }
 }
