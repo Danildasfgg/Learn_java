@@ -3,7 +3,7 @@ public class Learn_day_twelve {
         System.out.println("I love you");
     }
     public static void main(String[] args){
-        while (1 == 1){
+        while(1 >= 1){
             Primer();
         }
     }
